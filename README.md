@@ -10,3 +10,5 @@ Constantes: pi, e, tau
 Variables persistentes: x = 5 * 3 y luego x + pi
 Historial de operaciones
 Manejo de errores con mensajes claros (división por cero, dominio inválido, etc.)
+
+:D
